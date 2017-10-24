@@ -4,6 +4,8 @@
 
 ## How to use
 
+For now you'll have to manually copy the font files to your repo. Unfortunatelly there's no way to distribute them as an NPM package because [Metro Bundler](https://github.com/facebook/metro-bundler) will not include them in the [production release](https://github.com/facebook/react-vr/issues/52#issuecomment-312746787).
+
 ### Load a single font
 
 ```js
