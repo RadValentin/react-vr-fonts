@@ -14,7 +14,7 @@ One of the biggest issues with text in 3D is that large amounts of it can get qu
 
 React VR has it's own SDF format implementation and comes out of the box with the `Oculus Sans` font. Users are free to generate SDF versions of any font by using the [fontue](https://github.com/facebook/react-vr/tree/master/tools/fontue) tool. 
 
-To make things a bit easier, this repo provides pre-generated SDF fonts. If you find that your favorite font isn't included here, please contribute!
+To make things a bit easier, this repo provides already converted SDF fonts. If you find that your favorite font isn't included here, please [contribute](#how-to-contribute)!
 
 ## How to use
 
@@ -82,7 +82,7 @@ window.ReactVR = {init};
 
 A full working example can be found [here](https://github.com/RadValentin/react-vr-samples/tree/master/src/CustomFontFallback).
 
-## How to generate a font on macOS
+## How to convert a font on macOS
 
 1. Clone the [react-vr](https://github.com/facebook/react-vr) repo, you'll need to work in its `/tools/fontue` directory
     ```
