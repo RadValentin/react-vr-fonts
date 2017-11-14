@@ -23,7 +23,7 @@ One of the biggest issues with text in 3D is that large amounts of it can get qu
 [SDF fonts](http://www.valvesoftware.com/publications/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf) (Signed Distance Field) come to fill in this gap. By using a simple processing technique they allow font glyphs to remain sharp at multiple levels of magnification.
 
 ![Distance Field Fonts](assets/distance-field-fonts.png)
-<center>Image from <a href="https://github.com/libgdx/libgdx/wiki/Distance-field-fonts">libgdx/wiki/Distance-field-fonts</a></center>
+<p align="center">Image from <a href="https://github.com/libgdx/libgdx/wiki/Distance-field-fonts">libgdx/wiki/Distance-field-fonts</a></p>
 
 React VR has it's own SDF format implementation and comes out of the box with the `Oculus Sans` font. Users are free to generate SDF versions of any font by using the [fontue](https://github.com/facebook/react-vr/tree/master/tools/fontue) tool. 
 
