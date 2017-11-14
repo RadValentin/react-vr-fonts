@@ -118,3 +118,7 @@ For an icon font you'll have to figure out what range it uses and it if overlaps
 ```
 ./fontue ~/fonts/font-awesome/FontAwesome-4.7.0.otf ~/fonts/font-awesome/FontAwesome -co -0.01 -ts 1.0 -hpad 128 -vpad 128 -sdf 512 -1 -1 -ur 0xf000 0xf2e0
 ```
+
+## How to contribute
+
+Do you want to use a certain font but it's not included in this repo? Have you successfully [converted](#how-to-convert-a-font-on-macos) a font and want to add it here? Just submit a pull request, all contributions are more than welcome!
