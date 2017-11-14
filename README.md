@@ -2,6 +2,19 @@
 
 > Popular fonts in SDF format for React VR apps
 
+<!-- TOC -->
+
+- [react-vr-fonts](#react-vr-fonts)
+  - [Web fonts in VR](#web-fonts-in-vr)
+  - [How to use](#how-to-use)
+    - [Load a single font](#load-a-single-font)
+    - [Load multiple fonts as fallbacks](#load-multiple-fonts-as-fallbacks)
+  - [How to convert a font on macOS](#how-to-convert-a-font-on-macos)
+    - [Notes](#notes)
+  - [How to contribute](#how-to-contribute)
+
+<!-- /TOC -->
+
 ## Web fonts in VR
 
 Rendering text in any 3D environment is considerably harder than on a 2D web page. HTML was built specifically to display text whereas a 3D application is more concerned with displaying geometry. Only recently have the two begun to intermingle with the rise in popularity of VR. Suddenly the idea of UIs in 3D space went from a Hollywood pipe dream to something achievable in the near future. Of course, this brings in a new set of challenges.
